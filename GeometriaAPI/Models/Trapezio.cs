@@ -1,6 +1,6 @@
 namespace GeometriaAPI.Models{
 
-    public class Retangulo : GeometriaAPI, IGeometriaFormula{
+    public class Trapezio : GeometriaAPI, IGeometriaFormula{
 
 
         public double CalcularArea(string[] m){
