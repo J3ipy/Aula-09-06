@@ -1,0 +1,7 @@
+C:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.csproj.AssemblyReference.cache
+C:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.AssemblyInfoInputs.cache
+C:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.AssemblyInfo.cs
+C:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.csproj.CoreCompileInputs.cache
+C:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.MvcApplicationPartsAssemblyInfo.cache
