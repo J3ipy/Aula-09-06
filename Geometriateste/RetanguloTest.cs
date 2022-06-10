@@ -1,7 +1,7 @@
 using GeometriaAPI.Models;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace GeometriaTest
+namespace Geometriateste
 {
     [TestClass]
     public class RetanguloTest
