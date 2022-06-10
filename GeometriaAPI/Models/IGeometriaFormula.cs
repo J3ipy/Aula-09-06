@@ -1,10 +1,10 @@
-namespace   GeometriaAPI.Models{
+namespace GeometriaAPI.Models{
 
 
         public interface IGeometriaFormula
         {
-            double [] CalcularArea(string [] m);
-            double [] CalcularPerimetro(string []m);
+            double CalcularArea(string[] m);
+            double CalcularPerimetro(string[] m);
         }
 
 }

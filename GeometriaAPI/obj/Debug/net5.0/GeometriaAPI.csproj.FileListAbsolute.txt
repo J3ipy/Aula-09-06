@@ -5,3 +5,32 @@ C:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\Geome
 C:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.csproj.CoreCompileInputs.cache
 C:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.csproj.AssemblyReference.cache
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.AssemblyInfoInputs.cache
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.AssemblyInfo.cs
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.csproj.CoreCompileInputs.cache
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\bin\Debug\net5.0\GeometriaAPI.exe
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\bin\Debug\net5.0\GeometriaAPI.deps.json
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\bin\Debug\net5.0\GeometriaAPI.runtimeconfig.json
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\bin\Debug\net5.0\GeometriaAPI.runtimeconfig.dev.json
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\bin\Debug\net5.0\GeometriaAPI.dll
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\bin\Debug\net5.0\ref\GeometriaAPI.dll
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\bin\Debug\net5.0\GeometriaAPI.pdb
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\staticwebassets\GeometriaAPI.StaticWebAssets.Manifest.cache
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\staticwebassets\GeometriaAPI.StaticWebAssets.xml
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\scopedcss\bundle\GeometriaAPI.styles.css
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.RazorTargetAssemblyInfo.cache
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.csproj.CopyComplete
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.dll
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\ref\GeometriaAPI.dll
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.pdb
+C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.genruntimeconfig.cache
