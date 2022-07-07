@@ -3,7 +3,7 @@ namespace GeometriaAPI.Models{
     public class Circulo : GeometriaAPI, IGeometriaFormula{
 
 
-        public double CalcularArea(string[] m){
+        public double CalcularArea(string[] maromba){
 
             throw new System.NotImplementedException();
         }

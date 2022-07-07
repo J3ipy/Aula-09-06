@@ -34,3 +34,25 @@ C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\obj\Debug
 C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\ref\GeometriaAPI.dll
 C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.pdb
 C:\Users\JOAO PEDRO\OneDrive\Documentos\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.genruntimeconfig.cache
+c:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\bin\Debug\net5.0\appsettings.Development.json
+c:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\bin\Debug\net5.0\appsettings.json
+c:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\bin\Debug\net5.0\GeometriaAPI.StaticWebAssets.xml
+c:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\bin\Debug\net5.0\GeometriaAPI.exe
+c:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\bin\Debug\net5.0\GeometriaAPI.deps.json
+c:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\bin\Debug\net5.0\GeometriaAPI.runtimeconfig.json
+c:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\bin\Debug\net5.0\GeometriaAPI.runtimeconfig.dev.json
+c:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\bin\Debug\net5.0\GeometriaAPI.dll
+c:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\bin\Debug\net5.0\GeometriaAPI.pdb
+c:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+c:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\scopedcss\bundle\GeometriaAPI.styles.css
+c:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\staticwebassets\GeometriaAPI.StaticWebAssets.Manifest.cache
+c:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.RazorTargetAssemblyInfo.cache
+c:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.csproj.CopyComplete
+c:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.dll
+c:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\refint\GeometriaAPI.dll
+c:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.pdb
+c:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.genruntimeconfig.cache
+c:\Users\android\Documents\GitHub\Aula-09-06\GeometriaAPI\obj\Debug\net5.0\ref\GeometriaAPI.dll
